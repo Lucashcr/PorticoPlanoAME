@@ -1,0 +1,22 @@
+ Barra  Nó j  Nó k  Esforço Normal j  Esforço Normal k
+     1     1     2          -25.8213          -25.8213
+     2     2     3          -18.3832          -18.3832
+
+ Barra  Nó j  Nó k  Esforço Cortante j  Esforço Cortante k
+     1     1     2             -0.1764             -0.1764
+     2     2     3              6.1337             -3.8663
+
+ Barra  Nó j  Nó k  Momento Fletor j  Momento Fletor k
+     1     1     2            0.3296           -0.6684
+     2     2     3           -5.6684           -0.0000
+
+ Nó  Reação Horizontal  Reação vertical  Reação Momento
+  1            18.3832          18.1337         -0.3296
+  2             0.0000           0.0000          0.0000
+  3           -18.3832           3.8663         -0.0000
+
+ Nó  Desloc Horizontal  Desloc vertical   Rotação
+  1          -0.000000        -0.000000  0.000000
+  2           0.000092        -0.000298 -0.005325
+  3           0.000000         0.000000  0.031687
+
